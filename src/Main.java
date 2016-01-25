@@ -5,4 +5,11 @@
  * I'll check at home whether or not github decided to freak out. Checking how gihub registers this.
  */
 public class Main {
+    public static void main(String[] args) {
+
+            Character conan = new Character("Barbarian");
+            conan.displayClassName();
+
+    }
+
 }
