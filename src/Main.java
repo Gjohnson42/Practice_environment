@@ -10,6 +10,13 @@ public class Main {
         String[] adjectives= {"Vicious", "Fluffy", "Ramblin'","Elder"};
         String[] monsters= {"red dragon", "mushroom", "chihuaha"};
         String[] actions= {"attacked!", "just ambled by.", "caught you by suprise!"};
+// since you need an int to use the randomizer, convert the array lengths to ints.
+        int a= adjectives.length;
+        int m= monsters.length;
+        int ac= actions.length;
+        //now to create the random numbers, which requires a casting to int. I could just tell it the lengths by hand
+        //but that would make my code more brittle.
+
 
 
     }
