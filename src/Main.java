@@ -8,5 +8,9 @@ public class Main {
 
     public static void main(String[] args) {
         String[] adjectives= {"Vicious", "Fluffy", "Ramblin'","Elder"};
+        String[] monsters= {"red dragon", "mushroom", "chihuaha"};
+        String[] actions= {"attacked!", "just ambled by.", "caught you by suprise!"};
+
+
     }
 }
