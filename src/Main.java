@@ -5,4 +5,8 @@
  * I'll check at home whether or not github decided to freak out.
  */
 public class Main {
+
+    public static void main(String[] args) {
+        String[] adjectives= {"Vicious", "Fluffy", "Ramblin'","Elder"};
+    }
 }
