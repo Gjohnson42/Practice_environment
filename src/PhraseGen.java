@@ -4,9 +4,10 @@
 public class PhraseGen {
 
 
-        String[] adjectives = {"vicious", "fluffy", "ramblin'", "greater"};
-        String[] monsters = {"red dragon", "mushroom", "chihuaha"};
-        String[] actions = {"attacked!", "just ambled by.", "caught you by suprise!"};
+        String[] adjectives = {"vicious", "fluffy", "ramblin'", "greater", "slimy", "arthritic", "boss rank"};
+        String[] monsters = {"red dragon", "mushroom", "chihuaha", "hippie", "starving artist"};
+        String[] actions = {"attacked!", "just ambled by.", "caught you by suprise!", "slapped you across the face!",
+        "looks at you lewdly!", "did an impressive Trump impression!"};
         // since you need an int to use the randomizer, convert the array lengths to ints.
         int a = (int) adjectives.length;
         int m = (int) monsters.length;

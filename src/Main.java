@@ -8,6 +8,6 @@ public class Main {
 
     public static void main(String[] args) {
         PhraseGen first= new PhraseGen();
-        first.generate(3);
+        first.generate(10);
     }
 }
