@@ -6,5 +6,6 @@ public class Main {
     public static void main(String[] args){
         LevelTenMons ichi= new LevelTenMons(20,30,100,"Donald Trump");
         ichi.displayStats();
+        ichi.displayStats();
     }
 }

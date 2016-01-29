@@ -13,7 +13,7 @@ public class LevelTenMons {
         hp=h;
     }
     void displayStats(){
-        System.out.println( name+"'s stats are as follows:\nAttack: "+attack+ "Defense: "+ defense+ "HP: "+
-        hp);
+        System.out.println( name+"'s stats are as follows:\nAttack:"+attack+ "\nDefense:"+ defense+ "\nHP:"+
+        hp+"\n");
     }
 }
